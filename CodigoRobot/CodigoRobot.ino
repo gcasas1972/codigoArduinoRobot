@@ -1,9 +1,9 @@
 
 // Definición de pines para los motores
-const int M1_A = 13;
-const int M1_B = 12;
-const int M2_A = 11;
-const int M2_B = 10;
+const int M1_A = 11;
+const int M1_B = 10;
+const int M2_A = 9;
+const int M2_B = 8;
 
 char comando;
 
